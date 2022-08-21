@@ -92,7 +92,7 @@ displayed correctly for any of your repos, update `devicons` mapping in `script.
 
 ## Viewing projects
 
-Open `index.html` in your favorite browser or visit [2kabhishek.github.io/projects](https://2kabhishek.github.io/projects).
+Open `index.html` in your favorite browser or visit [academicgit.github.io/ProjectPage](https://academicgit.github.io/ProjectPage).
 
 ## How it was built
 
